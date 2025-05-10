@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![jsDelivr](https://data.jsdelivr.com/v1/package/gh/salarizadi/markdown.js/badge)
 
 A powerful and feature-rich Markdown parser for JavaScript with RTL support and smart typography. This library provides an elegant way to convert Markdown to HTML while supporting various advanced features including code syntax highlighting, RTL text direction, and smart typography.
 
