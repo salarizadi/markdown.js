@@ -1,0 +1,9 @@
+/**
+ * Copyright (c) 2025
+ * @Version: 1.0.0
+ * @Author: https://salarizadi.ir
+ * @Repsitory: https://github.com/salarizadi/markdown.js
+ * @Description: A powerful Markdown parser with RTL support and smart typography
+ * @License: MIT
+ */
+.markdown-content{line-height:1.6;&:empty{display:none}h1,h2,h3,h4,h5,h6{font-weight:600}pre{background-color:#574f4f4d;border-radius:6px;padding:10px;overflow:auto}code{border-radius:6px;padding:.2em .4em;font-family:monospace}table{border-collapse:collapse;width:100%;margin:16px 0}th,td{border:1px solid #d0d7de;padding:6px 13px}blockquote{border-right:4px solid #d0d7de;margin:0;padding:0 16px;color:#57606a}ol{padding:0 10px}.color-preview{transition:transform 0.2s ease;display:inline-block;width:12px;height:12px;margin:0 4px;border:1px solid #ccc;vertical-align:middle;border-radius:2px}.color-preview:hover{transform:scale(1.1);cursor:pointer}}.markdown-content,.markdown-content *{user-select:text;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text}
